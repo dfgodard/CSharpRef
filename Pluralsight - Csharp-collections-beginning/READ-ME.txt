@@ -1,0 +1,28 @@
+Code samples for Beginning C# Collections, by Simon Robinson, updated 21 Feb 2021
+
+----------------------------------
+
+tl;dr Summary: Go to the folder demos-dotnet5 to find the recommended version of all the code from the course.  Note that, in most of the projects, you'll need to change the hard-coded file path of Pop by Largest Final.csv, to the folder where you downloaded it to. (Clue: It's in the same folder as this file you're reading now).
+
+---------------------------------
+
+The Details (for anyone who likes reading):
+
+I've now provided two versions of the demo code - one for .NET 5.0 and the other for .NET Framework 4.6.1.  This is because I recorded the course in 2019, at a time when the .NET Framework was still the thing, so that's what I wrote the demos against.
+
+However, now .NET 5.0 is what you should probably be using for new projects - but it's quite tedious to convert projects from the .NET Framework to .NET 5.0, so I was nice and did the work for you! (Feel free to tell me how amazing I am in the course discussion ;-) )
+
+So, use the code in the folder demos-dotnet5. Unless you have some specific reason for wanting to work with the .NET Framework, in which case, use the code in the other folder demos-framework4.6.1.
+
+Note that for .NET 5.0, I've ONLY changed the VS project types: The C# code is identical. That means that .NET 5.0 code doesn't take advantage of some newer C# features you can get in .NET 5.0 (such as nullable reference types).
+
+---------------
+
+Pop by Largest Final.csv
+This is the CSV data file that is imported by most of the sample demos. Demos have a path to this file hard-coded in the Main() method. When running the samples, you'll need to change that path to reflect whichever folder you install this file to.
+
+---------------
+
+License data.txt
+Information about where the country data was sourced from and its licensing.
+

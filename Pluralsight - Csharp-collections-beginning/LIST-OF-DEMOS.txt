@@ -1,0 +1,20 @@
+List of VS Solutions
+Module,   Solution Name,   Purpose
+m02, DaysOfWeek,           Enumerates days of the week and modifieds one (enumerating and modifying array elements) 
+m02, NthDay,               Identifies a day by index (zero-based indexing)
+m03, TopTenPops,           Displays 10 most populous countries (populating an array)
+m04, DaysOfWeek,           Creates a list of days of the week (populating a list). Note this gives no output
+m04, ReadAllCountries,     Displays all countries in population order (populating and modifying a list)
+m05, DictSnippets,         Looks up hard-coded country in a dictionary (basic dictionary usage)
+m05, DisplaySingleCountry, Lets the user choose a country to look up (looking up items by dictionary key)
+m06, ReadCountriesForLoop, Displays all countries in blocks of user-chosen size (advanced for loop usage)
+m07, ReadAllCountries,     Lists a couple of different filtered lists of countries (filtering using LINQ)
+m08, NoughtsCrosses,       A game of noughts and crosses (tic-tac-toe) (multidimensional and jagged arrays)
+m08, CountriesByRegion,    Displays countries in a user-chosen region (dictionary of list)
+m09, TopTenPops,           Displays 10 most populous countries (accessing a collection using the interface)
+
+
+
+
+
+
